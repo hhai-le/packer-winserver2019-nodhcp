@@ -88,7 +88,7 @@
             </AutoLogon>
             <UserAccounts>
                 <AdministratorPassword>
-                    <Value>P@ssw0rd!123</Value>
+                    <Value>Password</Value>
                     <PlainText>true</PlainText>
                 </AdministratorPassword>
             </UserAccounts>
